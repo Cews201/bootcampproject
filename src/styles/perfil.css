@@ -1,0 +1,36 @@
+.contenedor-perfil{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    background-color: bisque;
+    margin: 10px 10px 30px;
+    justify-content: center;
+
+}
+
+.images-perfil{
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-texto-perfil{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding: 25px;
+    background-color: antiquewhite;
+}
+
+.nombre-perfil{
+    font-size: 2 rem;
+}
+
+.cargo-perfil{
+    font-size: 1 rem;
+    margin-top: 10px;
+}
+
+.texto-perfil{
+    font-size: 1 rem;
+}
